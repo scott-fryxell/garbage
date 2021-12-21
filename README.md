@@ -31,4 +31,9 @@ Match the api keys to the variables in`.env.local` file at the root of your proj
 
 # formating
 
-`yarn format` will format your code to projec standards
+`yarn format` will format your code to project standards
+
+
+# Do some things
+
+`yarn thingy` will thingy your code to project standards
